@@ -14,8 +14,6 @@ Welcome to my GitHub profile! I enjoy coding, experimenting with new ideas, and 
 
 ## 🗂️ My Repositories
 
-Add links to your repositories here. Replace the example names and URLs with your own.
-
 - **[Subject Picker]([https://github.com/Ryan4037/subject-picker])** —Tells GCSE students what to revise next, based on how overdue each subject is and how hard it is. 
 - **[MC Time Calculator]([https://github.com/Ryan4037/MC-Time-Calculator])** — Is a Calculator built in HTML and an Automation Script that runs in Python.
 - **[Exam Paper → Word (.docx)]([https://github.com/Ryan4037/eng_lang_paper_to_word])** — A single-file HTML tool that turns pasted exam content into a 15-page Word document laid out like an AQA English Language Paper 1 answer booklet.
